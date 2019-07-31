@@ -15,5 +15,12 @@
     "Node.js"
   ],
   "author": "Gaurav Kanted",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@slack/web-api": "^5.1.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "node": "^12.7.0",
+    "node-env-file": "^0.1.8"
+  }
 }
